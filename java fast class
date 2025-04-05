@@ -1,9 +1,34 @@
+*********************************************************************************************************************************************************************
 What is java? 
 Ans:- Java is a class-based, object-oriented programming language.
-
+**********************************************************************************************************************************************************************
 A compiler is a software that :-
 1.Takes source code (like java,c++,or python).
 2.Translate it into machine code.
 3.Convert machine code into binary code(0 and 1).
-
-The binary system code can be directly executed by a computer's processor
+***********************************************************************************************************************************************************************
+The binary system code can be directly executed by a computer's processor.
+***********************************************************************************************************************************************************************
+Pseudocode  is a way to write computer instructions in simple language.
+***********************************************************************************************************************************************************************
+Code editor <--|
+               |--> Visual Studio code (vs code)
+               |--> Intellij
+               |--> Eclipse
+***********************************************************************************************************************************************************************
+JDK (java Development Kit) is used to develop  java application JDK also  contains numerous development tools java application .JDK also contains numerous development 
+tools like compilers , debuggers etc. JRE (java Runtime Environment) is the implementation of JVM (Java Virtual Machine)  and it is specially desgined to execute java 
+programs.
+***********************************************************************************************************************************************************************
+An Entegrated Development Environment (IDE) is a software application that helps programmners develop software code efficincly.
+ex :- vs code, Intellij.
+***********************************************************************************************************************************************************************
+__________________________________________________________________________________________________________________________________________________________
+|                                                                                                                                        JDK              |
+|      _________________________________________                                     + Development tools                                                  |
+|     |                                         |                                                                                                         |
+|     |                                         |                                                                                                         |
+|     |   (JVM)                  +libraries     |                                                                                                         |
+|     |                                         |                                                                                                         |
+|     |_________________________________________|                                                                                                         |
+|_________________________________________________________________________________________________________________________________________________________|
