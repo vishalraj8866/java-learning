@@ -1,4 +1,9 @@
 What is java? 
 Ans:- Java is a class-based, object-oriented programming language.
 
+A compiler is a software that :-
+1.Takes source code (like java,c++,or python).
+2.Translate it into machine code.
+3.Convert machine code into binary code(0 and 1).
 
+The binary system code can be directly executed by a computer's processor
